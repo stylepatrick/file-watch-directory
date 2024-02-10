@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="file-watch-directory:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/file_watch_directory_jar</output-path>
+    <root id="archive" name="file-watch-directory.jar">
+      <element id="module-output" name="file-watch-directory" />
+    </root>
+  </artifact>
+</component>
